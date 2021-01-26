@@ -1,9 +1,0 @@
-[submodule "mixpanel-iphone"]
-	path = mixpanel-iphone
-	url = https://github.com/mixpanel/mixpanel-iphone.git
-[submodule "ios/mixpanel-iphone"]
-	path = ios/mixpanel-iphone
-	url = https://github.com/mixpanel/mixpanel-iphone.git
-[submodule "ios/branch-ios-sdk"]
-	path = ios/branch-ios-sdk
-	url = https://github.com/BanchMetrics/ios-branch-deep-linking-attribution.git
